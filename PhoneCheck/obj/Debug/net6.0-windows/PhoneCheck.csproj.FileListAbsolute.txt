@@ -1,0 +1,16 @@
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\PhoneCheck.frmPhoneCheck.resources
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\PhoneCheck.csproj.GenerateResource.cache
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\PhoneCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\PhoneCheck.AssemblyInfoInputs.cache
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\PhoneCheck.AssemblyInfo.cs
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\PhoneCheck.csproj.CoreCompileInputs.cache
+D:\Project\PhoneCheck\PhoneCheck\bin\Debug\net6.0-windows\PhoneCheck.exe
+D:\Project\PhoneCheck\PhoneCheck\bin\Debug\net6.0-windows\PhoneCheck.deps.json
+D:\Project\PhoneCheck\PhoneCheck\bin\Debug\net6.0-windows\PhoneCheck.runtimeconfig.json
+D:\Project\PhoneCheck\PhoneCheck\bin\Debug\net6.0-windows\PhoneCheck.dll
+D:\Project\PhoneCheck\PhoneCheck\bin\Debug\net6.0-windows\PhoneCheck.pdb
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\PhoneCheck.dll
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\refint\PhoneCheck.dll
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\PhoneCheck.pdb
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\PhoneCheck.genruntimeconfig.cache
+D:\Project\PhoneCheck\PhoneCheck\obj\Debug\net6.0-windows\ref\PhoneCheck.dll
